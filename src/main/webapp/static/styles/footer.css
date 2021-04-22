@@ -1,0 +1,8 @@
+.footer__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--pri-color);
+    background-color: var(--sec-color);
+    padding: 1rem 0;
+}

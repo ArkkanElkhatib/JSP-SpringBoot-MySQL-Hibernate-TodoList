@@ -1,0 +1,25 @@
+.navbar__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8vh;
+    padding: .5rem 2rem;
+    color: var(--pri-color);
+    background-color: var(--sec-color);
+}
+
+.navbar__links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 3rem;
+}
+
+.navbar__links a {
+    color: var(--pri-color);
+    text-decoration: none;
+}
+
+.navbar__links a {
+    text-decoration: underline;
+}

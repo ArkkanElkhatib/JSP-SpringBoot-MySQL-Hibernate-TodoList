@@ -1,0 +1,10 @@
+:root {
+    --pri-color: #f0f0f0;
+    --sec-color: #2d2d2d;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
